@@ -1,7 +1,7 @@
 VSCのターミナルで操作
 
 1.　自分のPCに取り込む
-git clone codeからコピーしたURL
+  git clone codeからコピーしたURL
 
 2.　サブブランチを作成する
 　おそらく最初はmainブランチにいる。
